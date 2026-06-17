@@ -189,8 +189,7 @@ settings merge, undo journal, headless CI mode, and more).
 The concepts and algorithms behind Fuze are documented in a standalone, implementation-
 agnostic research paper included in this repo:
 
-- [`Fuze-Unity-Project-Migration.pdf`](Fuze-Unity-Project-Migration.pdf)
-- LaTeX source (arXiv submission) under [`arxiv/`](arxiv/)
+- https://zenodo.org/records/20726946
 
 ---
 
