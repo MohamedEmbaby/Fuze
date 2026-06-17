@@ -187,7 +187,7 @@ settings merge, undo journal, headless CI mode, and more).
 ## Paper
 
 The concepts and algorithms behind Fuze are documented in a standalone, implementation-
-agnostic research paper included in this repo:
+agnostic research paper included in Zenodo:
 
 - https://zenodo.org/records/20726946
 
